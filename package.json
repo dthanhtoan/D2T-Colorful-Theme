@@ -1,0 +1,23 @@
+{
+  "name": "d2t-colorful-theme",
+  "displayName": "D2T Colorful Theme",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "dthanhtoan",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "D2T Colorful Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/D2T Colorful Theme.json"
+      }
+    ]
+  }
+}
