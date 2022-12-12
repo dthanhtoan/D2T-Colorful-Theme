@@ -14,9 +14,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "D2T Colorful Theme",
+        "label": "D2T Colorful High Contrast ",
         "uiTheme": "vs-dark",
-        "path": "./themes/D2T Colorful Theme.json"
+        "path": "./themes/D2T-Colorful-Theme.json"
       }
     ]
   }
