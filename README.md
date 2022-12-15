@@ -1,79 +1,51 @@
-![D2T VSCode theme](https://github.com/linkanh)
+# Screenshot
 
-## Examples
+![D2T Dark Theme Screenshot for HTML CSS JS](https://raw.githubusercontent.com/dthanhtoan/D2T-Colorful-Theme/master/images/screenshot.png)
 
-### Screenshot
+# More examples
 
-![D2T Dark Theme Screenshot for HTML CSS JS](https://github.com/linhanh)
+  ## HTML
 
-### More examples
+![D2T Dark Theme Screenshot for HTML CSS JS](https://raw.githubusercontent.com/dthanhtoan/D2T-Colorful-Theme/master/images/screenshot.png)
 
-<details>
-<summary>HTML</summary>
+  ## CSS
 
-![Karma theme screenshot for CSS](https://github.com/sreetamdas/karma/raw/HEAD/images/v3/css.webp)
-![Karma Light theme screenshot for CSS](https://github.com/sreetamdas/karma/raw/HEAD/images/v3/css-light.webp)
+![D2T Dark Theme Screenshot for HTML CSS JS](https://raw.githubusercontent.com/dthanhtoan/D2T-Colorful-Theme/master/images/screenshot.png)
 
-</details>
+  ## Javascript
 
-<details>
-<summary>CSS</summary>
+![D2T Dark Theme Screenshot for HTML CSS JS](https://raw.githubusercontent.com/dthanhtoan/D2T-Colorful-Theme/master/images/screenshot.png)
 
-![Karma theme screenshot for CSS](https://github.com/sreetamdas/karma/raw/HEAD/images/v3/css.webp)
-![Karma Light theme screenshot for CSS](https://github.com/sreetamdas/karma/raw/HEAD/images/v3/css-light.webp)
+# Recommended setup
 
-</details>
-
-<details>
-<summary>Javascript</summary>
-
-![Karma theme screenshot for CSS](https://github.com/sreetamdas/karma/raw/HEAD/images/v3/css.webp)
-![Karma Light theme screenshot for CSS](https://github.com/sreetamdas/karma/raw/HEAD/images/v3/css-light.webp)
-
-</details>
-
-<details>
-<summary>PHP</summary>
-
-![Karma theme screenshot for CSS](https://github.com/sreetamdas/karma/raw/HEAD/images/v3/css.webp)
-![Karma Light theme screenshot for CSS](https://github.com/sreetamdas/karma/raw/HEAD/images/v3/css-light.webp)
-
-</details>
-
-<details>
-<summary>Json</summary>
-
-![Karma theme screenshot for CSS](https://github.com/sreetamdas/karma/raw/HEAD/images/v3/css.webp)
-![Karma Light theme screenshot for CSS](https://github.com/sreetamdas/karma/raw/HEAD/images/v3/css-light.webp)
-
-</details>
-
-## Recommended setup
-
+  ## Setting
 - [Iosevka font](https://typeof.net/Iosevka/)
 - with the settings (you can paste these in your `settings.json`):
 
   ```json
   {
-    "breadcrumbs.enabled": true,
-  	"editor.bracketPairColorization.enabled": true,
+    "workbench.colorTheme": "D2T Colorful High Contrast",
+    "workbench.editor.wrapTabs": true,
+    "editor.stickyScroll.enabled": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.fontSize": 16,
+    "editor.lineHeight": 35,
+    "editor.letterSpacing": 0.5,
   }
   ```
 
-  ### Custom CSS and JS Loader
-  ![Custom CSS and JS Loader](https://github.com/sreetamdas/karma/raw/HEAD/images/v3/css-light.webp)
-  [Inistall Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
+  ## Custom CSS and JS Loader
 
-1. Install this extension.
+1. [Inistall Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
 
 2. Add to `settings.json`:
 
-  ```json
+    ```json
     {
-        "vscode_custom_css.imports": [
-        "file:///C:/Users/{username}/.vscode/extensions/dthanhtoan.d2t.dark.theme/customColor.css"]
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/{username}/Documents/customColor.css"]
     }
-  ```
+    ```
 
 3. Restart Visual Studio Code with proper permission to modify itself:
 

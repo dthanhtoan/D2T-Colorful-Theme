@@ -41,10 +41,8 @@
 		"activityBar.background": "#0d0d1d",
 		"activityBar.foreground": "#01b3fe",
 		"activityBar.inactiveForeground": "#a0a0c0",
-	
 		"activityBarBadge.background": "#01b3fe",
 		"activityBarBadge.foreground": "#f3f3f3",
-	
 		"activityBar.border": "#0d0d1d",
 		"sideBar.background": "#0d0d1d",
 		"sideBar.border": "#0d0d1d",
@@ -59,8 +57,8 @@
 		"editor.hoverHighlightBackground": "#01b3fe50",
 		"editor.lineHighlightBorder": "#4e5860",
 		"editor.rangeHighlightBackground": "#b166e715",
-		"editor.selectionBackground": "#4e5860",
-		"editor.selectionHighlightBackground": "#c1c2c3",
+		"editor.selectionBackground": "#4e586030",
+		"editor.selectionHighlightBackground": "#ffffff20",
 		"editor.snippetFinalTabstopHighlightBackground": "#282a36",
 		"editor.snippetFinalTabstopHighlightBorder": "#36e6ad",
 		"editor.snippetTabstopHighlightBackground": "#282a36",
@@ -108,7 +106,6 @@
 		"tab.border": "#1a1b22",
 		"tab.inactiveBackground": "#191a2a",
 		"tab.inactiveForeground": "#a0a0c0",
-
 		"diffEditor.insertedTextBackground": "#22fc6a20",
 		"diffEditor.removedTextBackground": "#f5464850",
 		"peekView.border": "#4e5860",
@@ -129,7 +126,7 @@
 		"panel.border": "#ab94f8",
 		"panelTitle.activeBorder": "#01b3fe",
 		"panelTitle.activeForeground": "#f3f3f3",
-		"panelTitle.inactiveForeground": "#fff",
+		"panelTitle.inactiveForeground": "#ffffff",
 		"statusBar.background": "#1a1b22",
 		"statusBar.debuggingBackground": "#f54648",
 		"statusBar.debuggingForeground": "#1a1b22",
@@ -145,11 +142,9 @@
 		"titleBar.activeForeground": "#f3f3f3",
 		"titleBar.inactiveBackground": "#1a1b22",
 		"titleBar.inactiveForeground": "#a0a0c0",
-	
 		"extensionButton.prominentBackground": "#01b3fe",
 		"extensionButton.prominentForeground": "#f3f3f3",
 		"extensionButton.prominentHoverBackground": "#01b3fe60",
-	
 		"pickerGroup.border": "#b166e7",
 		"pickerGroup.foreground": "#01b3fe",
 		"terminal.ansiBlack": "#282631",

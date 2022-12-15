@@ -1,8 +1,8 @@
 {
   "name": "d2t-colorful-theme",
   "displayName": "D2T Colorful Theme",
-  "description": "",
-  "version": "0.0.1",
+  "description": "🌈 D2T Colorful theme for Visual Studio Code",
+  "version": "0.0.2",
   "publisher": "dthanhtoan",
   "icon": "icon.png",
   "engines": {
@@ -14,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "D2T Colorful High Contrast ",
+        "label": "D2T Colorful High Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/D2T-Colorful-Theme.json"
       }
